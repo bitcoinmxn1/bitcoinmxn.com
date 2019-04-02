@@ -57,82 +57,37 @@ tags:
   - Mexico
   - red cross
 ---
-<p align="justify">
-  <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Bitso, un intercambio de criptomonedas en México, tuvo su pasada campaña para ayudar a las víctimas del reciente terremoto en México.</span></span>
-</p>
 
-<p align="justify">
-  <p align="justify">
-    <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Bitso anunció su apoyo a los mexicanos que se vieron afectados por el reciente terremoto. El intercambio de criptomonedas ha permitio que las carteras de donaciones pudieran ser utilizadas por los clientes de la compañía para enviar ayuda utilizando diferentes monedas digitales, como bitcoin, ether y ripple. Según Bitso, las donaciones de criptomonedas son una manera rápida y eficiente de ayudar a las víctimas ya que los activos son fáciles de transferir.</span></span>
-  </p>
-  
-  <p align="justify">
-    <p align="justify">
-      <p align="justify">
-        <p align="justify">
-          <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Desafortunadamente, algunas personas han perdido sus hogares, sus pertenencias y, lamentablemente, incluso la vida de sus seres queridos. Esperamos que esto les ayudara a regresar a sus actividades diarias.</span></span>
-        </p>
-        
-        <p align="justify">
-          <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Miles de hogares fueron destruidos y mas de 100 personas murieron en todo el país como resultado de un terremoto que ocurrió poco antes de la medianoche del 7 de septiembre. Alcanzó una magnitud de 8.2 en la escala de Richter.</span></span>
-        </p>
-        
-        <p align="justify">
-          <h2 align="justify">
-            <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Los detalles de la donación se pueden encontrar en el blog del intercambio de criptomonedas:</span></span>
-          </h2>
-          
-          <p align="justify">
-            <p align="justify">
-              <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">&#8220;Únase a esta campaña y ayude a los esfuerzos realizados por RED CROSS en México utilizando el hashtag #BitcoinAidMexico y haga una donación a una de las siguientes cuentas:</span></span>
-            </p>
+Bitso, un intercambio de criptomonedas en México, tuvo su pasada campaña para ayudar a las víctimas del reciente terremoto en México.
+
+Bitso anunció su apoyo a los mexicanos que se vieron afectados por el reciente terremoto. El intercambio de criptomonedas ha permitio que las carteras de donaciones pudieran ser utilizadas por los clientes de la compañía para enviar ayuda utilizando diferentes monedas digitales, como bitcoin, ether y ripple. Según Bitso, las donaciones de criptomonedas son una manera rápida y eficiente de ayudar a las víctimas ya que los activos son fáciles de transferir.
+
+Desafortunadamente, algunas personas han perdido sus hogares, sus pertenencias y, lamentablemente, incluso la vida de sus seres queridos. Esperamos que esto les ayudara a regresar a sus actividades diarias.
+
+Miles de hogares fueron destruidos y mas de 100 personas murieron en todo el país como resultado de un terremoto que ocurrió poco antes de la medianoche del 7 de septiembre. Alcanzó una magnitud de 8.2 en la escala de Richter.
+
+## Los detalles de la donación se pueden encontrar en el blog del intercambio de criptomonedas:
+
+Únase a esta campaña y ayude a los esfuerzos realizados por RED CROSS en México utilizando el hashtag #BitcoinAidMexico y haga una donación a una de las siguientes cuentas:</span></span>
             
-            <p align="justify">
-              <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Bitcoin (BTC) 1DaHfXsoPfZ2jznJhB62vR3QEVFhhZ2tMR</span></span>
-            </p>
-            
-            <p align="justify">
-              <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Ethereum (ETH) 0x88B6021aE4BB9830f2E9D5BB38B83427b9D7ffEc</span></span>
-            </p>
-            
-            <p align="justify">
-              <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Ripple (XRP) rEFMdiTbLmZq5ZiMGrWGoyP48DMFqXjNkM [No se requiere etiqueta de destino] &#8220;</span></span>
-            </p>
-            
-            <p align="justify">
-              <p align="justify">
-                <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">La Cruz Roja pudo restablecer centros de recolección y socorro en varias áreas afectadas por el terremoto, especialmente en los estados sureños de Oaxaca y Chiapas, beneficiando a alrededor de 24,000 personas.</span></span>
-              </p>
-              
-              <p align="justify">
-                <p align="justify">
-                  <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Debido a la transparencia, la trazabilidad y el informe en tiempo real de la tecnología, los usuarios pueden rastrear fácilmente las donaciones en cualquier momento. La cantidad total que Bitso ha recaudado se intercambio más tarde en pesos mexicanos (MXN) a tasas de mercado. Bitso escribió:</span></span>
-                </p>
-                
-                <p align="justify">
-                  <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">El monto equivalente en pesos mexicanos se transferirá utilizando un cable bancario local a Cruz Roja I.A.P. (RED CROSS México) a la cuenta bancaria CLABE 012180004040404062. Este número CLABE se puede validar en su sitio web https://www.cruzrojamexicana.org.mx o en su cuenta de Twitter: https://twitter.com/CruzRoja_MX/status/ 906600599864582144 &#8220;</span></span>
-                </p>
-                
-                <p align="justify">
-                  <p align="justify">
-                    <a name="_GoBack"></a> <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">La fecha límite para enviar los fondos fue el 15 de septiembre; Sin embargo, Bitso agregó que si aún reciben fondos más adelante, la compañía intercambiará esas donaciones entre el 15 y el 22 de septiembre y las transferirá a la Cruz Roja Mexicana.</span></span>
-                  </p>
-                  
-                  <p align="justify">
-                    <p align="justify">
-                      <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Bitso destacó que no hay un monto mínimo para las donaciones y que aceptarán todas las transacciones. La compañía escribió que la recaudación de fondos comenzó con la donación de $ 50,000, que se agregará a la cantidad total de donaciones.</span></span>
-                    </p>
-                    
-                    <p align="justify">
-                      <p align="justify">
-                        <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">El monto que la empresa haya recaudado y la prueba de la transacción se mostrarán públicamente para una total transparencia.</span></span>
-                      </p>
-                      
-                      <p align="justify">
-                        <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Bitso enfatizó que aunque la Cruz Roja Mexicana finalmente recibirá los fondos, las contribuciones de los usuarios no pueden usarse como deducciones fiscales.</span></span>
-                      </p>
-                      
-                      <p align="justify">
-                        <p align="justify">
-                          <span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">&#8220;Importante: BITSO no hará ninguna contribución del usuario deducible de impuestos. Los pesos mexicanos se transferirán en nombre de terceros de acuerdo con la ley mexicana LISR artículo 35, y se utilizará el siguiente TIN XAXX010101000 para generar el pago correspondiente como &#8216;Factura Pública General&#8217;.</span></span>
-                        </p>
+Bitcoin (BTC) 1DaHfXsoPfZ2jznJhB62vR3QEVFhhZ2tMR
+Ethereum (ETH) 0x88B6021aE4BB9830f2E9D5BB38B83427b9D7ffEc
+Ripple (XRP) rEFMdiTbLmZq5ZiMGrWGoyP48DMFqXjNkM
+
+La Cruz Roja pudo restablecer centros de recolección y socorro en varias áreas afectadas por el terremoto, especialmente en los estados sureños de Oaxaca y Chiapas, beneficiando a alrededor de 24,000 personas.</span></span>
+
+Debido a la transparencia, la trazabilidad y el informe en tiempo real de la tecnología, los usuarios pueden rastrear fácilmente las donaciones en cualquier momento. La cantidad total que Bitso ha recaudado se intercambio más tarde en pesos mexicanos (MXN) a tasas de mercado. Bitso escribió:
+
+"El monto equivalente en pesos mexicanos se transferirá utilizando un cable bancario local a Cruz Roja I.A.P. (RED CROSS México) a la cuenta bancaria CLABE 012180004040404062."
+
+Este número CLABE se puede validar en su sitio web https://www.cruzrojamexicana.org.mx o en su cuenta de Twitter: https://twitter.com/CruzRoja_MX/status/ 
+
+La fecha límite para enviar los fondos fue el 15 de septiembre; Sin embargo, Bitso agregó que si aún reciben fondos más adelante, la compañía intercambiará esas donaciones entre el 15 y el 22 de septiembre y las transferirá a la Cruz Roja Mexicana.</span></span>
+
+Bitso destacó que no hay un monto mínimo para las donaciones y que aceptarán todas las transacciones. La compañía escribió que la recaudación de fondos comenzó con la donación de $ 50,000, que se agregará a la cantidad total de donaciones.</span></span>
+
+El monto que la empresa haya recaudado y la prueba de la transacción se mostrarán públicamente para una total transparencia.
+
+Bitso enfatizó que aunque la Cruz Roja Mexicana finalmente recibirá los fondos, las contribuciones de los usuarios no pueden usarse como deducciones fiscales.
+
+Importante: BITSO no hará ninguna contribución del usuario deducible de impuestos. Los pesos mexicanos se transferirán en nombre de terceros de acuerdo con la ley mexicana LISR artículo 35, y se utilizará el siguiente TIN XAXX010101000.
