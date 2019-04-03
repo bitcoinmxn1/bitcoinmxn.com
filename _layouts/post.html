@@ -33,6 +33,7 @@ layout: base
 
       <article role="main" class="blog-post">
         {{ content }}
+        {% include afterpost.html %}
       </article>
 
       {% if page.tags.size > 0 %}
