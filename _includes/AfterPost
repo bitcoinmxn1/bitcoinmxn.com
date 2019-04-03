@@ -1,0 +1,18 @@
+<script><!--
+var currency_rate_list=new Array("BTC","MXN");
+var currency_template="<a href=\"$link\">1 $from_abbrev = <b>$rate</b>
+$to_abbrevs </a><br>";
+var currency_round=true;
+//--></script>
+<script src="https://coinmill.com/frame.js"></script>
+
+<iframe src="https://localbitcoins.com/es/affiliate-embed/half-banner?ch=e7mg"
+width="234" height="60" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no"></iframe>
+
+<small>Currency data courtesy <a
+href="https://coinmill.com/">coinmill.com</a></small>
+
+<a href="https://goo.gl/uyJcx7"><img class="alignnone"
+src="https://i.imgur.com/R6GjaSg.jpg" alt="" width="200" height="200"
+/></a>
