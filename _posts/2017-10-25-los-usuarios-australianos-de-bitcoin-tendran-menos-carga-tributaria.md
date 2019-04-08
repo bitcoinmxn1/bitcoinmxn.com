@@ -4,6 +4,7 @@ title: Los usuarios australianos de Bitcoin tendrán menos carga tributaria
 date: 2017-10-25T18:32:41+00:00
 author: Lily
 layout: post
+tags: bitcoin, australia
 guid: http://bitcoinmxn.com/?p=154
 permalink: /2017/10/25/los-usuarios-australianos-de-bitcoin-tendran-menos-carga-tributaria/
 snap_isAutoPosted:
