@@ -5,6 +5,7 @@ date: 2015-01-02T20:58:09+00:00
 author: Andres
 layout: post
 guid: http://bitcoinmxn.com/?p=148
+tags: CEX
 permalink: /2015/01/02/el-intercambio-de-bitcoin-cex-io-se-expandio-a-america-latina/
 snap_isAutoPosted:
   - "1514149194"
