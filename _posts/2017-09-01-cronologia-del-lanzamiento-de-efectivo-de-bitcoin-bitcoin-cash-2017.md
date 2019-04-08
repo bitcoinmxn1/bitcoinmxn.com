@@ -4,6 +4,7 @@ title: Cronología del lanzamiento de efectivo de Bitcoin (Bitcoin Cash) 2017
 date: 2017-09-01T20:00:57+00:00
 author: Andres
 layout: post
+tags: bitcoin cash
 guid: http://bitcoinmxn.com/?p=220
 permalink: /2017/09/01/cronologia-del-lanzamiento-de-efectivo-de-bitcoin-bitcoin-cash-2017/
 snap_isAutoPosted:
