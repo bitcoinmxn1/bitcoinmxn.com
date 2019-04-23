@@ -3,7 +3,6 @@ layout: page
 use-site-title: true
 ---
 <div class="price-check">
-<div id="xecurrencywidget"></div>
 <script>
   (function(b,i,t,C,O,I,N) {
     window.addEventListener('load',function() {
@@ -13,7 +12,7 @@ use-site-title: true
     },false)
   })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
 </script>	
-<div class="btcwdgt-chart" bw-cur="mxn"></div>
+<div class="btcwdgt-price" bw-cur="mxn"></div>
 </div>
 <div class="posts-list">
   {% for post in paginator.posts %}
