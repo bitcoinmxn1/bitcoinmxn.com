@@ -4,8 +4,16 @@ use-site-title: true
 ---
 <div class="price-check">
 <div id="xecurrencywidget"></div>
-<script>var xeCurrencyWidget = {"domain":"bitcoinmxn.com","language":"es","size":"normal"};</script>
-<script src="https://www.xe.com/syndication/currencyconverterwidget.js"></script>	
+<script>
+  (function(b,i,t,C,O,I,N) {
+    window.addEventListener('load',function() {
+      if(b.getElementById(C))return;
+      I=b.createElement(i),N=b.getElementsByTagName(i)[0];
+      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);
+    },false)
+  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
+</script>	
+<div class="btcwdgt-chart" bw-cur="mxn"></div>
 </div>
 <div class="posts-list">
   {% for post in paginator.posts %}
