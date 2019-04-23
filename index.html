@@ -2,7 +2,11 @@
 layout: page
 use-site-title: true
 ---
-
+<div class="price-check">
+<div id="xecurrencywidget"></div>
+<script>var xeCurrencyWidget = {"domain":"bitcoinmxn.com","language":"es","size":"normal"};</script>
+<script src="https://www.xe.com/syndication/currencyconverterwidget.js"></script>	
+</div>
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
