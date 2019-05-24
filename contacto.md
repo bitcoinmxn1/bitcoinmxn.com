@@ -8,20 +8,12 @@ guid: http://bitcoinmxn.com/?page_id=142
 custom_sidebar:
   - none
 ---
-## Utilice el siguiente formulario para comunicados de prensa y oportunidades publicitarias
-
-## O
-
-## Envíe un correo electrónico al administrador a **Admin@BitcoinMXN.com**
+### Envíe un correo electrónico al administrador a **Admin@BitcoinMXN.com**
 
 &nbsp;
 
-### Use the form below for press releases and advertising opportunities
 
-### OR
-
-### Email the Admin at  
-Admin@BitcoinMXN.com
+### Email the Admin at Admin@BitcoinMXN.com
 
 &nbsp;
 
