@@ -15,7 +15,9 @@ Facilitating trade through normal financial means is a no-go on the Dark web. Th
 <h2>What Kind of Things Are Traded on the Dark Web? </h2>
 
 While the Silk Road and it’s copycats sell a lot of the obvious stuff, you would be surprised at [what can you buy on the dark web](https://darkwebjournal.com/what-can-you-buy-on-the-dark-web/). Aside from the drug trade, forged documents, stolen credit cards and hacked social media accounts in bulk are probably the biggest trades found on marketplaces.
+
 The dark web is also a means to buy & sell stolen physical goods like electronics, gift cards, or designer clothing. It is likely many of these shops sell goods that were obtained via “carding”, which means credit cards that were cloned and used in-person at retail stores.
+
 There have been other more extreme services offered on the deep web, although many of them are speculated to be fake. This includes prostitution, swatting services (fake police reports initiate a SWAT raid), doxxing and general hacking. 
 <h2>What Are Authorities Doing About The Dark Web?</h2>
 
