@@ -1,6 +1,6 @@
 ---
 title: Bitcoin’s Role in the Dark Web
-date: 2019-31-07T20:19:59+00:00
+date: 2019-31-07
 layout: post
 tags:
   - english
