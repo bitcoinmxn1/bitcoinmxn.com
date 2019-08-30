@@ -3,6 +3,9 @@ title: Buy Bitcoin in Ireland
 author: master
 layout: post
 image: https://live.staticflickr.com/978/42219279952_fdb2968a4f_b.jpg
+
+exclude:
+  - afterpost*
 ---
 
 Bitcoin es una moneda virtual que existe desde 2009. A diferencia de otras monedas como el Euro, Bitcoin no existe en forma de papel o moneda, aparte de los productos novedosos. Debido al primer gran boom en 2017, ha proliferado en todo el mundo y [Bitcoin Ireland](https://bitcoinbuyer.ie/) no es una excepción.
