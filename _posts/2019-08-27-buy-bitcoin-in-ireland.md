@@ -17,11 +17,12 @@ Irlanda ha expresado un vago interés por regular las criptomonedas, pero no ha 
 <h2> Considerando opciones para comprar Bitcoin en Irlandia </h2>
 
 Al igual que en cualquier otro país, existen múltiples formas de comprar Bitcoin debido a su naturaleza descentralizada. Esto incluye:
-• Transacción en efectivo: conozca a una persona acreditada en persona para realizar una transacción en efectivo y comerciar a través de una aplicación móvil. Esta es la forma más riesgosa pero más anónima de hacer negocios.
-• Cajero automático de Bitcoin: según CoinATMRadar, hay cajeros automáticos presentes en Dublín, Cork y Galway. Como se esperaba, la disponibilidad de estas máquinas puede cambiar y puede haber más máquinas presentes de las que se informan en línea. Asegúrese de explorar la ubicación antes de llevar una gran cantidad de efectivo a criptografía.
-• Intercambios: esta suele ser la opción más conveniente, aunque deja más rastros de papel. Usar coinbase es simple y rápido una vez que haya sido verificado, y es probable que obtenga el mejor precio disponible. Asegúrese de crear y verificar una cuenta con anticipación para no tener demoras en el último minuto.
-• Tarjetas de regalo: en localbitcoins, paxum y varias comunidades en línea, hay compradores que intercambiarán Bitcoin por varias tarjetas de regalo. Tenga en cuenta que solo obtendrá una fracción de su valor dependiendo de la demanda actual de dicha tarjeta de regalo.
-• Western Union o Money Gram: si tiene problemas, puede comprar Bitcoin a proveedores de todo el mundo utilizando efectivo para comprar códigos de Western Union o Money Gram. Tenga en cuenta que es posible que no esté obteniendo el mejor precio y algunas tarifas están involucradas.
+
+* Transacción en efectivo: conozca a una persona acreditada en persona para realizar una transacción en efectivo y comerciar a través de una aplicación móvil. Esta es la forma más riesgosa pero más anónima de hacer negocios.
+* Cajero automático de Bitcoin: según CoinATMRadar, hay cajeros automáticos presentes en Dublín, Cork y Galway. Como se esperaba, la disponibilidad de estas máquinas puede cambiar y puede haber más máquinas presentes de las que se informan en línea. Asegúrese de explorar la ubicación antes de llevar una gran cantidad de efectivo a criptografía.
+* Intercambios: esta suele ser la opción más conveniente, aunque deja más rastros de papel. Usar coinbase es simple y rápido una vez que haya sido verificado, y es probable que obtenga el mejor precio disponible. Asegúrese de crear y verificar una cuenta con anticipación para no tener demoras en el último minuto.
+* Tarjetas de regalo: en localbitcoins, paxum y varias comunidades en línea, hay compradores que intercambiarán Bitcoin por varias tarjetas de regalo. Tenga en cuenta que solo obtendrá una fracción de su valor dependiendo de la demanda actual de dicha tarjeta de regalo.
+* Western Union o Money Gram: si tiene problemas, puede comprar Bitcoin a proveedores de todo el mundo utilizando efectivo para comprar códigos de Western Union o Money Gram. Tenga en cuenta que es posible que no esté obteniendo el mejor precio y algunas tarifas están involucradas.
 
 ---
 Su [comprador de bitcoin](https://bitcoinbuyer.ie/) promedio en Irlanda está ayudando a contribuir a la adopción mundial de la criptomoneda, incluso si es un país relativamente pequeño. El país puede usar el euro hoy, pero Bitcoin podría convertirse en la moneda de facto del mundo e Irlanda podría ser una parte importante de esta economía futurista.
