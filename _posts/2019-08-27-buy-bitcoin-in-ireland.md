@@ -1,7 +1,6 @@
 ---
 title: Buy Bitcoin in Ireland
 author: master
-layout: post
 image: https://live.staticflickr.com/978/42219279952_fdb2968a4f_b.jpg
 
 exclude:
