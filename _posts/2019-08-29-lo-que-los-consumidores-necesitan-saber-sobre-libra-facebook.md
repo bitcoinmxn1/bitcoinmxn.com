@@ -2,6 +2,7 @@
 title: Lo que los consumidores necesitan saber sobre Libra, la nueva criptomoneda de Facebook.
 author: master
 image: https://i.imgur.com/9i6TgW8.jpg
+tags: libra, facebook
 ---
 
 
