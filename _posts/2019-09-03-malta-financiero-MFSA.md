@@ -1,7 +1,6 @@
 ---
-title: ¿Qué es bakkt? NYSE Con Bitcoin
-layout: El regulador financiero de Malta "supervisará activamente" las empresas de cifrado para evitar
-lavado de dinero
+title: El regulador financiero de Malta "supervisará activamente" las empresas de cifrado para evitar
+layout: post
 ---
 
 La Autoridad de Servicios Financieros de Malta (MFSA), el país europeo
