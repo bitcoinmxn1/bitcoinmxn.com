@@ -4,7 +4,7 @@ layout: page
 ---
 
 <h2> Local.Bitcoin.com </h2>
-[LocalBitcoin](https://i.imgur.com/Hwspwbs.png)
+![LocalBitcoin](https://i.imgur.com/Hwspwbs.png)
 
 La sección "[Local](https://local.bitcoin.com/en/offers/Mexico)" de Bitcoin.com es todavía muy nuevo y permite a compradores y vendedores conectarse a través de su plataforma en línea, de manera similar a Craigslist. El estandar de la moneda es el comercio de BCH, que se convierte fácilmente en BTC.
 
