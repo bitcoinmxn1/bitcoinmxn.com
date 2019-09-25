@@ -1,6 +1,7 @@
 ---
 title:  Puedes ganar dinero ejecutando un nodo de iluminación
 image: https://i.imgur.com/Ew8EdQv.jpg
+tags: bitcoin, lightingnode
 ---
 Trompeado como una forma de escalar bitcoin para manejar la adopción convencional, hay una ventaja menos conocida de girar un nodo de rayo para permitir a usuarios  enviar pagos baratos e instantáneos: puede ganar dinero.
 
