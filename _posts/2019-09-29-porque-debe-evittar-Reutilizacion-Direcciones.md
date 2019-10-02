@@ -6,7 +6,7 @@ tags: bitcoin
 
 Direcciones Bitcoin no son tan complicados, pero son un poco extraño. Vamos a desmitificar todo el asunto explicando lo que realmente ocurre cuando usted interactúa con direcciones Bitcoin.
 
-<H2> Una dirección Bitcoin es un destino </ h2>
+<H2> Una dirección Bitcoin es un destino </h2>
 
 Una dirección Bitcoin es una cadena de letras y números que representa una destino en la red Bitcoin, nada más.
 
@@ -14,11 +14,9 @@ Hay unos pocos tipos diferentes de direcciones Bitcoin, y todos hacen lo lo mism
 
 Bitcoin direcciones sólo realmente se utilizan cuando se recibe Bitcoin. diferente a nuestras direcciones del mundo real, que sólo están destinados a ser utilizados una sola vez. la idea es que para cada transacción Bitcoin, existan receptores que generan una sola dirección de un solo uso para proporcionar a los remitentes.
 
-Es mucho mejor pensar en una dirección como un método de dirigir Bitcoin durante una transacción, en lugar de donde se  almacena. Vamos
-paso a través de un ejemplo.
+Es mucho mejor pensar en una dirección como un método de dirigir Bitcoin durante una transacción, en lugar de donde se  almacena. Vamos paso a través de un ejemplo.
 
-Quiero enviar algun Bitcoin a Matt, que tiene una buena reputación Bitcoin aplicación Wallet instalado en su teléfono. Ha solicitado que el pago
-de algunos Bitcoin que le debo.
+Quiero enviar algun Bitcoin a Matt, que tiene una buena reputación Bitcoin aplicación Wallet instalado en su teléfono. Ha solicitado que el pago de algunos Bitcoin que le debo.
 
 Matt usa su aplicación Wallet Bitcoin para generar una nueva dirección, único. Esta función está disponible en casi toda buena billetera Bitcoin. Mantener en mente, es específicamente para esta ocasión. Bitcoin son direcciones de un solo uso.
 
@@ -28,7 +26,7 @@ Ahora que tengo, la dirección nueva Bitcoin de Matt, simplemente conectarlo a s
 
 Eso es todo, su transacción ha sido expulsado por la confirmación y la ciclo de vida de la dirección de Bitcoin es completa.
 
-<h2> No se puede devolver al remitente </ h2>
+<h2> No se puede devolver al remitente </h2>
 
 Un aspecto curioso de Bitcoin es que en realidad no realiza un seguimiento de dónde las transacciones se envían.
 
@@ -38,8 +36,7 @@ En Bitcoin, lo más parecido a un de la dirección es la última dirección el B
 
 Esta es una opción de diseño decidido por Satoshi Nakamoto, orientado hacia la protección de la privacidad de los usuarios de Bitcoin mediante la eliminación de la capacidad de transacciones enlacen a otras.
 
-Para explicar, volvamos al ejemplo. Una semana después de la original transacción, noto que he enviado accidentalmente a Matt demasiado
-Bitcoin. Ahora, de hecho me debe algo de Bitcoin.
+Para explicar, volvamos al ejemplo. Una semana después de la original transacción, noto que he enviado accidentalmente a Matt demasiado Bitcoin. Ahora, de hecho me debe algo de Bitcoin.
 
 Si Matt simplemente devuelve el Bitcoin a la dirección anterior que fue enviado a él, creyendo que en realidad realidad llevaría de vuelta a mi cartera Bitcoin, Matt estaria confiando en suposiciones peligrosas, sobre todo en cuanto a si sigo usando esa dirección de Bitcoin.
 
