@@ -1,5 +1,5 @@
 ---
-title:  EL FÉNOMENO DE BITCOIN Y CON HONG KONG
+title:  El fénomeno de bitcoin y Hong Kong
 image: https://live.staticflickr.com/65535/48073561361_0072b94a54_c_d.jpg
 tags: hong kong
 ---
