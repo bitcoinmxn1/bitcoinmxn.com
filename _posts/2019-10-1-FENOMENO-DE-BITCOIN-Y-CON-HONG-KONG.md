@@ -12,7 +12,7 @@ De la misma manera el Bitcoin es usado por personas en países en crisis cómo p
 
 Cómo dijimos anteriormente los sucesos que ocurren en un país repercute en su mercado de acciones y de valores, pero también en cuanto a Bitcoin se ve influido de una manera muy elevada. Podemos mencionar el suceso de Hong Kong como algo interesante a hablar.
 
-Los datos del monitoreo de [Coin Dance](https://coin.dance/), que de alguna manera rastrae los volúmenes en los intercambios de Bitcoin sugirió que 12.3 millones de dólares de Hong Kong cambiaron de manos la semana del 28 de septiembre.
+[Los datos del monitoreo de Coins Live](https://coins.live), que de alguna manera rastrae los volúmenes en los intercambios de Bitcoin sugirió que 12.3 millones de dólares de Hong Kong cambiaron de manos la semana del 28 de septiembre.
 
 Esta cifra supero fácilmente al record anterior que existía de 11,6 millones que los usuarios de Localbitcoins habían establecido en enero de 2018. Esto se produjo gracias a que Hong Kong continua enfrentando una gran agitación política. Las amenazas se produjeron cuando algunos manifestantes organizaron manifestaciones durante todo el verano con las finanzas de Hong Kong.
 
