@@ -1,6 +1,6 @@
 ---
 title:  ¿Por qué tiene valor el Bitcoin?
-image: https://live.staticflickr.com/4691/38453796344_d3b8340d0f_c_d.jpg
+image: https://i.imgur.com/gbqTqg4.jpg
 tags: bitcoin
 ---
 
