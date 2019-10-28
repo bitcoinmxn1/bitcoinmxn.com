@@ -1,5 +1,5 @@
 ---
-title:  ¿Por qué tiene valor el Bitcoin?
+title:  Bitcoin y otras Criptomonedas
 image: https://i.imgur.com/gbqTqg4.jpg
 tags: bitcoin
 ---
