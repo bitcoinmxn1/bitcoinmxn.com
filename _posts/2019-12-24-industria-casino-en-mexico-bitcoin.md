@@ -1,6 +1,7 @@
 ---
 Title: Por qué la industria de los casinos en México depende de Bitcoin?	
-Image: https://live.staticflickr.com/4535/37976399954_bebcfa326f_o_d.jpg
+image: https://i.imgur.com/ph2r4QHg.jpg
+tags: bitcoin, casino
 ---
 
 Bitcoin puede considerarse uno de los mayores avances para la tecnología financiera, pero aparte de la inversión especulativa, los casos de uso en el mundo real aún son bastante limitados. Afortunadamente, la industria de los casinos siempre encuentra soluciones a los  conflictos de pagos estables y Bitcoin puede ser el refugio seguro que se necesita.
