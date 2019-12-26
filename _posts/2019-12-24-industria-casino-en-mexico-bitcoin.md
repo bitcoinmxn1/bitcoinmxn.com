@@ -27,11 +27,11 @@ Una de las características más buscadas de Bitcoin es cómo las transacciones 
 
 <h2> Hacer pagos de casino con Bitcoin </h2>
 
-Hay varias implementaciones sobre cómo se puede integrar Bitcoin dentro de un casino en línea (). El método más común implicaría una billetera privada para cada usuario que se puede cargar con Bitcoin y los usuarios pueden usar sus fondos. Retirar funciona de una manera similar a como el dinero se envía a través del protocolo blockchain de la misma manera en que entró.
+Hay varias implementaciones sobre cómo se puede integrar Bitcoin dentro de un casino en línea. El método más común implicaría una billetera privada para cada usuario que se puede cargar con Bitcoin y los usuarios pueden usar sus fondos. Retirar funciona de una manera similar a como el dinero se envía a través del protocolo blockchain de la misma manera en que entró.
 
 La ventaja de todo esto es que los pagos pueden entrar o salir en menos de una hora, mientras que otros métodos pueden tardar varios días en procesarse. Presas como esta pueden quitarle la diversión a los juegos de azar en línea.
 
-Hay otras variaciones creativas, como el casino que usa su propia moneda interna o criptomoneda para usar en [los juegos de tragamonedas](https://www.toritocasino.mx).
+Hay otras variaciones creativas, como el casino que usa su propia moneda interna o criptomoneda para usar en los [juegos de tragamonedas](https://www.toritocasino.mx).
 
 Algunos casinos en línea también han optado por utilizar procesadores de terceros para intercambiar criptomonedas en pesos, o viceversa.
 
