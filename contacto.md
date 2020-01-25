@@ -8,16 +8,5 @@ guid: http://bitcoinmxn.com/?page_id=142
 custom_sidebar:
   - none
 ---
-### Envíe un correo electrónico al administrador a **Admin@BitcoinMXN.com**
 
-&nbsp;
-
-
-### Email the Admin at Admin@BitcoinMXN.com
-
-&nbsp;
-
-<div role="form" class="wpcf7" id="wpcf7-f141-o2" lang="en-US" dir="ltr">
-  <div class="screen-reader-response">
-  </div>
-</div>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCCgrXCwNudHr8wx2nB1VuBqkrW2MfAnJOkbNZC4g4lmwX4A/viewform?embedded=true" width="640" height="947" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
