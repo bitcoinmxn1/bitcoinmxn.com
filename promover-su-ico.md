@@ -26,9 +26,4 @@ custom_sidebar:
 
 Deja tu e-mail para que nuestro equipo se ponga en contacto con usted después de la revisión de su información.
 
-&nbsp;
-
-<div role="form" class="wpcf7" id="wpcf7-f11150-o10" lang="es-ES" dir="ltr">
-  <div class="screen-reader-response">
-  </div>
-</div>
+<h2>bitcoinmxn1@gmail.com</h2>
