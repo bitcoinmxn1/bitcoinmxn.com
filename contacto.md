@@ -8,9 +8,20 @@ guid: http://bitcoinmxn.com/?page_id=142
 custom_sidebar:
   - none
 ---
+<form
+  action="https://formspree.io/xyyernlp"
+  method="POST"
+>
+  <label>
+    Email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    el mensaje:
+    <textarea name="message"></textarea>
+  </label>
 
-<form action="https://formspree.io/xyyernlp" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>
