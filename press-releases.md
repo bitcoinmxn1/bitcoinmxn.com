@@ -31,7 +31,7 @@ custom_sidebar:
 
 **Ethereum: **<span class="f-14 bg-grey ph-10 pv-10 width-100 font-1-mobile ph-10-mobile">0xB2f74437c8260AAF70a456F5710ad65C0EAfcD24</span>
 
-**Otra:** Contactarnos admin@dotcomwriters.com
+**Otra:** Contactarnos bitcoinmxn1@gmail.com
 
 &nbsp;
 
