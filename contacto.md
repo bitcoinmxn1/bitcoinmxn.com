@@ -10,12 +10,13 @@ custom_sidebar:
 ---
 <form
   action="https://formspree.io/xyyernlp"
-  method="POST"
->
+  method="POST">
+  
   <label>
     Email:
     <input type="text" name="_replyto">
   </label>
+  
   <label>
     el mensaje:
     <textarea name="message"></textarea>
@@ -23,5 +24,5 @@ custom_sidebar:
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">Enviar</button>
 </form>
