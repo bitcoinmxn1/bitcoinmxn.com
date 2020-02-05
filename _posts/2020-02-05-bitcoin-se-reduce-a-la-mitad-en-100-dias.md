@@ -5,10 +5,6 @@ layout: post
 tags: bitcoin, blockchain
 ---
 
-
-<em> Nota: [Mira Moneda Gecko] (https://www.coingecko.com/es/explain/bitcoin_halving) para el cuenta atrás. </em>
----
-
 Uno de los desarrollos más esperados en el espacio de las criptomonedas para 2020 se reduce a la mitad. El bitcoin. Este evento, que se espera ocurra en mayo 2020, dará como resultado una reducción del 50% de la subvención en bloque dado a los mineros de Bitcoin.
 
 En su valor nominal, la reducción a la mitad de bitcoin parece una mala noticia para los mineros. Sin embargo, muchas personas que siguen de cerca la criptografía dicen que este fenómeno es como catalizador para una acción de precio importante y positiva para Bitcoin y altcoins en el futuro.
@@ -47,3 +43,6 @@ Sin embargo, otras personas han dicho que el evento de reducción a la mitad de 
 anticipación en la comunidad criptográfica, así como la posibilidad de que el impacto de la reducción a la mitad ya está incluido en los precios actuales de BTC.
 
 Sea lo que sea lo que depara el futuro para el valor de BTC, las personas verán Bitcoin reducir a la mitad como punto de inflexión.
+
+---
+<em> Nota: [Mira Moneda Gecko] (https://www.coingecko.com/es/explain/bitcoin_halving) para el cuenta atrás. </em>
