@@ -45,4 +45,4 @@ anticipación en la comunidad criptográfica, así como la posibilidad de que el
 Sea lo que sea lo que depara el futuro para el valor de BTC, las personas verán Bitcoin reducir a la mitad como punto de inflexión.
 
 ---
-<em> Nota: [Mira Moneda Gecko] (https://www.coingecko.com/es/explain/bitcoin_halving) para el cuenta atrás. </em>
+<em> Nota: [Mira Moneda Gecko](https://www.coingecko.com/es/explain/bitcoin_halving) para el cuenta atrás. </em>
