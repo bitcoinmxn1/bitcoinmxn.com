@@ -13,19 +13,10 @@ Intercambios para comprar Bitcoin en México
 </ul>
 </center>
 </div>
-<div class="price-check">
-<script>
-  (function(b,i,t,C,O,I,N) {
-    window.addEventListener('load',function() {
-      if(b.getElementById(C))return;
-      I=b.createElement(i),N=b.getElementsByTagName(i)[0];
-      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);
-    },false)
-  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
-</script>
-<center>
-<div class="btcwdgt-price" bw-cur="mxn"></div>
-</center>
+<div class="bitcoin-mxn">
+	<center>
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="MXN" data-secondary="USD" data-ticker="true" data-rank="false" data-marketcap="false" data-volume="true" data-statsticker="true" data-stats="USD"></div>
+        </center>
 </div>
 <div class="posts-list">
   {% for post in paginator.posts %}
