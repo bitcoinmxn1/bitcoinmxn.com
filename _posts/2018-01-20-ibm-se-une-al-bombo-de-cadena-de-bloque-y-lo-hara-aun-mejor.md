@@ -76,7 +76,7 @@ La Cadena de Bloque es una invención que ha salido de la reciente histeria de B
 
 No es que IBM sea el mejor negocio en la web cuando se trata de servicios cadena de bloque, pero tienen una reputación de larga data cuando viene a implementar servicios de datos de vanguardia. Un montón de Las nuevas empresas basadas en cadena de bloque están apareciendo, pero muchas de ellas tendrán corta vida útil y reputaciones cuestionables.
 
-En este momento, IBM es uno de los primeros en adoptar en el nivel corporativo industria del software y están expandiendo su cartera en el mundo de cadena de bloque. Basado en los conciertos que ya han obtenido, parece que 2018 será un año increíble para el crecimiento de IBM. Suministro la cadena, el cumplimiento y las aplicaciones financieras parecen tener mayor potencial para las soluciones de cadena de bloque de IBM.  
+En este momento, IBM es uno de los primeros en adoptar en el nivel corporativo industria del software y están expandiendo su cartera en el mundo de [cadena de bloque](https://bitopia.io). Basado en los conciertos que ya han obtenido, parece que 2018 será un año increíble para el crecimiento de IBM. Suministro la cadena, el cumplimiento y las aplicaciones financieras parecen tener mayor potencial para las soluciones de cadena de bloque de IBM.  
 IBM se asocia con la Fundación Linux
 
 Hyperledger es un proyecto de código abierto con los esfuerzos combinados de IBM y la Fundación Linux que sirve como un marco para la industria aplicaciones de cadena de bloque. Ha estado involucrado con algunos de las mayores empresas en las finanzas y la banca a gran parte de la innovación software.  
