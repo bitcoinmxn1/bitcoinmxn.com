@@ -99,7 +99,7 @@ url-pretty: "Bitcoinmxn.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: "UA-"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-137550575-1"
+# google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -116,9 +116,9 @@ google_analytics: "UA-137550575-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "purplecx"
+# disqus: "purplecx"
 # If you want to use just-comments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
+# just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
