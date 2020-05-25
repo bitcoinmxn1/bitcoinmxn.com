@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 social-network-links:
   rss: true
   email: "bitcoinmxn1@gmail.com"
-  facebook: bitcoinmxnofficial
+#  facebook: bitcoinmxnofficial
   twitter: mxn_bitcoin
 #  reddit: yourname
 #  google-plus: +DeanAttali
