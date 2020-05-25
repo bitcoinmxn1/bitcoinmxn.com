@@ -1,5 +1,6 @@
 ---
-title: Por qué la industria de los casinos en México depende de Bitcoin?	
+title: Por qué la industria de los casinos en México depende de Bitcoin?
+permalink: /2019/12/24/industria-casino-en-mexico-bitcoin
 image: https://i.imgur.com/ph2r4QHg.jpg
 layout: post
 tags: bitcoin, casino
