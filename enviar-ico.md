@@ -8,20 +8,16 @@ Hemos publicado muchas publicaciones en el sitio y los anunciantes anteriores ha
 
 Simplemente use el formulario a continuación para enviar su comunicado de prensa y lo haremos que incluya cualquier imagen que cargue, asegurándose de que cumpla con nuestros altos estándares de publicación.
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/XdnFs?wanted=true" target="_blank">Comprar</a>
-
 <form
-  action="https://formspree.io/xyyernlp"
-  method="POST">
-  
+  action="https://formspree.io/mjvayyeb"
+  method="POST"
+>
   <label>
-    Email:
+    Your email:
     <input type="text" name="_replyto">
   </label>
-  
   <label>
-    el mensaje:
+    Your message:
     <textarea name="message"></textarea>
   </label>
 
