@@ -1,5 +1,6 @@
 ---
 title: ¿Porqué los casinos en línea están cambiando a Bitcoin?
+permalink: /2020/02/05/porque-los-casinos-estan-cambiando-a-bitcoin
 image: https://i.imgur.com/CFJHgeT.jpg
 layout: sponsored
 tags: casino, bitcoin
