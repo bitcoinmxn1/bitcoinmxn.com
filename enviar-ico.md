@@ -13,11 +13,11 @@ Simplemente use el formulario a continuación para enviar su comunicado de prens
   method="POST"
 >
   <label>
-    Your email:
+    Email:
     <input type="text" name="_replyto">
   </label>
   <label>
-    Your message:
+    Mensaje:
     <textarea name="message"></textarea>
   </label>
 
