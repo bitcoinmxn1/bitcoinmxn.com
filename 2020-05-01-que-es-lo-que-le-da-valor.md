@@ -1,5 +1,6 @@
 ---
 title: ¿Qué es lo que le da valor a Bitcoin? La respuesta definitiva es: La piel en el juego.
+permalink: que-es-lo-que-le-da-valor-a-Bitcoin
 layout: post
 image: https://live.staticflickr.com/1963/43910337550_75af1fb605_c_d.jpg
 tags: bitcoin
