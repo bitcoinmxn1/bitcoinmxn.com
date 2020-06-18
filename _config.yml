@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "bitcoinmxn1@gmail.com"
+  email: "bitcoinmxn1@protonmail.com"
 #  facebook: bitcoinmxnofficial
   twitter: mxn_bitcoin
 #  reddit: yourname
