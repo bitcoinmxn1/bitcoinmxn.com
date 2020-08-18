@@ -1,6 +1,6 @@
 ---
 title: ¿Por qué los casinos de Bitcoin siguen siendo populares?
-layout: post
+layout: sponsored
 permalink: /bitcoin-gambling
 image: https://i.imgur.com/lvZb0RA.jpg
 ---
