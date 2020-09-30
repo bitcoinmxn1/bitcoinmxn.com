@@ -1,8 +1,8 @@
 ---
 title: ¿Quiere comprar alojamiento web con Bitcoin? Esto es lo que debería saber.
 layout: sponsored
-image:
-permalink:/comprar-alojamiento-web-con-bitcoin
+image: https://i.imgur.com/tYDsZND.jpg
+permalink: /comprar-alojamiento-web-con-bitcoin
 ---
 
 La forma de pagar por el alojamiento web ha evolucionado con el tiempo y ahora es posible pagar por un servicio de alojamiento con Bitcoin y otras formas de criptografía. El alojamiento de Bitcoin ha ganado una inmensa popularidad entre los entusiastas de la tecnología y otras personas que prefieren operar en la web con cierto grado de privacidad y anonimato.
