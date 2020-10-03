@@ -10,7 +10,7 @@ La sección "[Local](https://local.bitcoin.com/en/offers/Mexico)" de Bitcoin.com
 
 <h2> LocalBitcoins </h2>
 
-Es posible comprar bitcoins con dinero en efectivo en [LocalBitcoins](http://localbitcoins.com) a través del intercambio en efectivo en persona o con depósito en efectivo
+Es posible comprar bitcoins con dinero en efectivo en [LocalBitcoins](https://localbitcoins.com/affiliate-embed/half-banner?ch=19bth) a través del intercambio en efectivo en persona o con depósito en efectivo
 
 **Una guía rápida paso a paso sobre cómo comprar bitcoins con dinero en efectivo en LocalBitcoins:**
 * Encuentre un vendedor en su área que acepte efectivo.
