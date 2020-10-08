@@ -3,22 +3,24 @@ title: Dónde comprar Bitcoins en efectivo en México
 layout: page
 ---
 
-<h2> Local.Bitcoin.com </h2>
-![LocalBitcoin](https://i.imgur.com/Hwspwbs.png)
+<h2> [LocalBitcoins](https://localbitcoins.com/?ch=19bth) </h2>
 
-La sección "[Local](https://local.bitcoin.com/en/offers/Mexico)" de Bitcoin.com es todavía muy nuevo y permite a compradores y vendedores conectarse a través de su plataforma en línea, de manera similar a Craigslist. El estandar de la moneda es el comercio de BCH, que se convierte fácilmente en BTC.
+Es posible comprar bitcoins con dinero en efectivo en [LocalBitcoins](https://localbitcoins.com/?ch=19bth) a través del intercambio en efectivo en persona o con depósito en efectivo
 
-<h2> LocalBitcoins </h2>
-
-Es posible comprar bitcoins con dinero en efectivo en [LocalBitcoins](https://localbitcoins.com/affiliate-embed/half-banner?ch=19bth) a través del intercambio en efectivo en persona o con depósito en efectivo
-
-**Una guía rápida paso a paso sobre cómo comprar bitcoins con dinero en efectivo en LocalBitcoins:**
+**Una guía rápida paso a paso sobre cómo comprar bitcoins con dinero en efectivo en [LocalBitcoins](https://localbitcoins.com/?ch=19bth):**
 * Encuentre un vendedor en su área que acepte efectivo.
 * Seleccione la cantidad de monedas y haga un pedido.
 * Recibir el número de cuenta del vendedor.
 * Deposite en efectivo en la cuenta del vendedor.
 * Sube tu recibo para demostrar que hiciste el depósito / transacción.
 * Recibe bitcoins! Las monedas llegarán a tu billetera LocalBitcoins.
+
+<iframe allowtransparency="true" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="234" height="60" src="https://localbitcoins.com/affiliate-embed/half-banner?ch=19bth"></iframe>
+
+<h2> Local.Bitcoin.com </h2>
+![LocalBitcoin](https://i.imgur.com/Hwspwbs.png)
+
+La sección "[Local](https://local.bitcoin.com/en/offers/Mexico)" de Bitcoin.com es todavía muy nuevo y permite a compradores y vendedores conectarse a través de su plataforma en línea, de manera similar a Craigslist. El estandar de la moneda es el comercio de BCH, que se convierte fácilmente en BTC.
 
 <h2> Mycelium Local Trader </h2>
 
