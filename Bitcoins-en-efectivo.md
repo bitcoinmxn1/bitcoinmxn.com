@@ -3,7 +3,7 @@ title: Dónde comprar Bitcoins en efectivo en México
 layout: page
 ---
 
-## [LocalBitcoins](https://localbitcoins.com/?ch=19bth)
+## LocalBitcoins
 
 Es posible comprar bitcoins con dinero en efectivo en [LocalBitcoins](https://localbitcoins.com/?ch=19bth) a través del intercambio en efectivo en persona o con depósito en efectivo
 
