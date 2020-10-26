@@ -5,7 +5,7 @@ image: https://i.imgur.com/rjf1zut.png
 permalink: /bitcoin-crucero-panama
 ---
 
-P&O Cruises El antiguo crucero australiano Pacific Dawn, según se informa, ha encontrado una nueva vida única como comunidad flotante permanentemente anclada en el Golfo de Panamá. 
+P&O Cruises El antiguo crucero australiano Pacific Dawn, según se informa, ha encontrado una nueva vida única como comunidad flotante permanentemente anclada en el Golfo de [Panamá](https://panama-zone.com/2020/10/19/bitcoin-cruise-ship). 
 
 ![](https://i.imgur.com/rjf1zut.png)
 
