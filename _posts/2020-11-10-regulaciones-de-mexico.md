@@ -16,7 +16,7 @@ Los empresarios también están sujetos a una prohibición de la criptografía. 
 
 El jueves, el Banco de México tendrá su reunión de directorio. Los analistas del Rabobank, esperan que Banxico deje la tasa de interés política en 4.25% el jueves. Ellos ven que los acontecimientos internos continuarán tomando un lugar secundario cuando se trata de la acción de los precios del USD/MXN en los próximos meses, aunque es probable que esto cambie en la segunda mitad de 2021. 
 
-##Citas clave: 
+### Citas clave: 
 - "Esperamos que Banxico deje la tasa de interés sin cambios en el 4,25% el jueves 12 de noviembre. Mantenemos la opinión de que Banxico recortará las tasas al 4.00% para el final del año pero esperamos que el Banco se mantenga hasta la reunión de diciembre. Dicho esto, seremos los primeros en admitir que es una decisión difícil y esperamos una decisión dividida de la junta. De hecho, la acción de los precios del USD/MXN desde que hicimos nuestra llamada a la pausa ha apoyado un movimiento esta semana con el USD/MXN cayendo un 7,5% desde un máximo intradía de 21,978 a 20,56 en el momento de escribir este artículo."
 - "Sin embargo, esperamos otro recorte de 25 pb a 4.00% en la reunión de diciembre y vemos al Banco recortar por debajo del 4% en el primer trimestre del próximo año."
 - "Hemos revisado a la baja nuestros pronósticos de USD/MXN para reflejar un ambiente de riesgo más constructivo para el fin de año y principios de 2021."
