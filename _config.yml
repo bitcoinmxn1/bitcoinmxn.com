@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://bitcoinmxn.com"
+#url: "https://bitcoinmxn.com"
 #baseurl: "/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "bitcoinmxn1@protonmail.com"
+  email: "hola@bitcoinmxn.com"
 #  facebook: bitcoinmxnofficial
   twitter: mxn_bitcoin
 #  reddit: yourname
