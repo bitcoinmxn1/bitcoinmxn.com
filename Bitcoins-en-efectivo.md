@@ -35,3 +35,7 @@ Afortunadamente, México es uno de los pocos países apoyados por [Wall of Moned
 Los vendedores son libres de aceptar cualquier método de pago a través de Wall of Coins. Los compradores tendrán que consultar el libro de pedidos para ver qué métodos de pago están disponibles. El método de pago más común es el depósito en efectivo.
 
 Un depósito en efectivo es cuando el comprador de bitcoins va a un banco físico. Sucursales y depósitos en efectivo en la cuenta del vendedor de Bitcoin.
+
+---
+
+**Ver también: [Bitcoin en Ciudad de México](https://bitcoinmxn.com/2018/01/11/donde-se-puede-comprar-bitcoins-en-cuidad-de-mexico-mexico/).**
