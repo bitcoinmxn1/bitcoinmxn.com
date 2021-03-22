@@ -64,6 +64,9 @@ tags:
   - litecoin
   - wallet
 ---
+
+<iframe allowtransparency="true" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="234" height="60" src="https://localbitcoins.com/affiliate-embed/half-banner?ch=19bth"></iframe>
+
 El generador de [bitcoinpaperwallet.com](http://bitcoinpaperwallet.com) ahora genera direcciones de Litecoin, así como también Bitcoin y Dogecoin, con opciones para el cifrado BIP38 y claves aleatorias autoalimentadas.
 
 **Caracteristicas**
