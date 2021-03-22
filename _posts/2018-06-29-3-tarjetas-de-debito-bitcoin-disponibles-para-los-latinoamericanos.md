@@ -60,6 +60,9 @@ categories:
   - Bitcoin
   - Guías
 ---
+
+<iframe allowtransparency="true" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="234" height="60" src="https://localbitcoins.com/affiliate-embed/half-banner?ch=19bth"></iframe>
+
 A pesar de que la cantidad de tiendas en México y América Latina que aceptan Bitcoin y cryptocurrencies. Aún está en continua expansión, todavía no es posible comprar todo con Bitcoin. Sin embargo, gracias a varias empresas en el ecosistema, Bitcoin ahora se puede ordenar su propia tarjeta de débito Bitcoin. Es tan simple como suena &#8211; una tarjeta de débito que está conectado a su balanza de Bitcoin.
 
 ## ¿Por qué usted debe poseer una tarjeta de débito Bitcoin?
