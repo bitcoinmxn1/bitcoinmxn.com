@@ -61,6 +61,9 @@ tags:
   - invertir
   - litecoin
 ---
+
+<iframe allowtransparency="true" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="234" height="60" src="https://localbitcoins.com/affiliate-embed/half-banner?ch=19bth"></iframe>
+
 Desde que salió Bitcoin en enero del año 2009 poco a poco el mundo económico se revolucionó por lo novedoso de la idea y el gran potencial que demostró tener desde sus inicios. Debido a esto la competencia no se quedó de brazos cruzados y por eso, sin que hubiese pasado mucho tiempo empezaron a salir otras criptomonedas valiéndose del Bitcoin como idea base para desarrollar otros proyectos similares.
 
 De esta manera nació Litecoin en el año 2011. Según [Gananci](https://gananci.com/como-funciona-litecoin-y-por-que-compite-contra-bitcoin/), sus creadores la fundaron como un proyecto de software  de código abierto inspirado en el Bitcoin. Ahí radica su gran parecido a esta otra criptomoneda.
