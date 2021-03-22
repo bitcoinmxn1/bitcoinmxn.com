@@ -4,19 +4,7 @@ layout: page
 permalink: /bitcoin-que-es
 ---
 
-<div id="dragon_unit_8e0c6248"></div>
-<script type="text/javascript">
-(function() {
-var uid = "8e0c6248";
-var r = Math.floor((Math.random() * 100000) + 1);
-var s = document.createElement('script'); 
-s.type = 'text/javascript'; 
-s.async = true;
-s.src = 'https://ads.addragon.com/ad_units/' + uid + '?r='+parseInt(r);
-var d = document.getElementById('dragon_unit_8e0c6248'); 
-d.appendChild(s);
-})();
-</script>
+<iframe allowtransparency="true" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="234" height="60" src="https://localbitcoins.com/affiliate-embed/half-banner?ch=19bth"></iframe>
 
 Muchos se preguntan ” Bitcoin que es “, y la verdad que es muy importante que lo tengas claro. Lo que es bitcoin, para que me sirve y el como funciona esta criptomoneda, es clave tenerlo en cuenta para lo que se nos avecina en materia económica y social. La volatilidad hace que el precio y el valor del bitcoin varíen mucho, por lo cuál son más las personas que quieren comprar esta criptomoneda. En este post sabrás todos los detalles!
 
