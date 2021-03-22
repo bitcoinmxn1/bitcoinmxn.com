@@ -153,3 +153,5 @@ Sin un gobierno o una autoridad central al mando, controlando el suministro, el 
 Bitcoin ha hecho de Satoshi Nakamoto un multimillonario muchas veces, al menos sobre el papel. Se acuña un montón de millonarios entre los pioneros tecnológicos, los inversores y los primeros mineros bitcoin. Los gemelos Winklevoss, que desembolsaron 65 millones de dólares en Facebook en un fondo de capital de riesgo que hizo inversiones tempranas en bitcoin, son ahora multimillonarios según Fortune.
 
 En coinbase puedes hacer respectiva especulación del bitcoin y otras criptomonedas.
+
+<iframe data-aa="1412285" src="//acceptable.a-ads.com/1412285" scrolling="no" style="border:0px; padding:0; width:100%; height:100%; overflow:hidden" allowtransparency="true"></iframe>
